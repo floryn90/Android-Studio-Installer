@@ -29,7 +29,7 @@ if [ ! -d /usr/local/share/icons/ ]; then
 fi
 
 # Fix for large icon problem
-cp android-studio/bin/idea.ico /usr/local/share/icons/android-studio.ico
+cp android-studio/bin/idea.png /usr/local/share/icons/android-studio.png
 
 
 echo "[Desktop Entry]
